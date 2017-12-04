@@ -1,4 +1,3 @@
 # Lab4_BD2
-![](https://travis-ci.org/AndrewSamoydyuk/Lab4_BD2.svg?branch=master)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/aa46f0bd32bf452d9a821438a8f9140c)](https://www.codacy.com/app/AndrewSamoydyuk/Lab4_BD2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AndrewSamoydyuk/Lab4_BD2&amp;utm_campaign=Badge_Grade)
-[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/aa46f0bd32bf452d9a821438a8f9140c)](https://www.codacy.com/app/AndrewSamoydyuk/Lab4_BD2?utm_source=github.com&utm_medium=referral&utm_content=AndrewSamoydyuk/Lab4_BD2&utm_campaign=Badge_Coverage)
+![](https://travis-ci.org/AlexanderMetlenkov/DB4.svg?branch=master)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2b9419695dd84e48aad501e5b49708f8)](https://www.codacy.com/app/AlexanderMetlenkov/DB4?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AlexanderMetlenkov/DB4&amp;utm_campaign=Badge_Grade)
